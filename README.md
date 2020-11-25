@@ -1,2 +1,2 @@
-# Prueas-Chris
+# Pruebas-Chris
 Mis pruebas
