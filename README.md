@@ -3,9 +3,9 @@
 
 ## Oaxaqueando da la Bienvenida a su Repositorio :wave: 
 
-Bienvenido a nuestro Repositorio de Oaxaqueando este repositorio se creo principalmente para alojar nuestro código y la documentación, 
+Bienvenido a nuestro Repositorio este repositorio se creo principalmente para alojar nuestro código y la documentación, 
 llevando un buen control de versiones, además de aprovechar, las herramientas que nos ofrece GitHub, como es la creacion de un proyecto 
-en donde tenemos nuestro tablero de Kanbancon el flujo continuo de tareas que realizamos cada uno de los integantes del equipo.
+en donde tenemos nuestro tablero de Kanban con el flujo continuo de tareas que realizamos cada uno de los integantes del equipo.
 
 ![Oaxaqueando](https://user-images.githubusercontent.com/62117067/100479481-fe614980-30b3-11eb-9b72-2d79d3b12eec.png)
 
@@ -24,11 +24,12 @@ ___
  | **Nombre** | **Rol** | 
   |------------|-----|
   |@NataliaSantiago| Lider del Proyecto :+1:
-  |@ObedG      |Pogramador y Analista :computer: :question:
+  |@ObedG      |Pogramador  y Analista  :question::computer:
   |@Litzy-12 | Diseñadora :dizzy:
   |@Christoherg2| Tester ::mag:
 ___
 
-> **La calidad de un producto es lo que el consumidor final percibirá, un producto de mala calidad será mucho menos vendible.** ~*Steve Jobs* 
+
+> **La calidad de un producto es lo que el consumidor final percibirá, un producto de mala calidad será mucho menos vendible. ** ~*Steve Jobs* 
 
 		
