@@ -3,7 +3,7 @@
 
 ## Oaxaqueando da la Bienvenida a su Repositorio :wave: 
 
-Bienvenido a nuestro Repositorio este repositorio se creo principalmente para alojar nuestro código y la documentación, 
+	Este repositorio se creo principalmente para alojar nuestro código y la documentación, 
 llevando un buen control de versiones, además de aprovechar, las herramientas que nos ofrece GitHub, como es la creacion de un proyecto 
 en donde tenemos nuestro tablero de Kanban con el flujo continuo de tareas que realizamos cada uno de los integantes del equipo.
 
@@ -24,9 +24,13 @@ ___
  | **Nombre** | **Rol** | 
   |------------|-----|
   |@NataliaSantiago| Lider del Proyecto :+1:
-  |@ObedG      |Pogramador  y Analista  :question::computer:
+  |@ObedG      |Programador  y Analista  :question::computer:
   |@Litzy-12 | Diseñadora :dizzy:
   |@Christoherg2| Tester ::mag:
+___
+- [x] Documento de Arquitectura de Software
+- [x] Dcoumento de Requisitos del Sistema
+- [x] Tablero Kanbans
 ___
 
 
