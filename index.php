@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
-    <script src="https://libs.zappar.com/zappar-aframe/0.3.6/zappar-aframe.js"></script>
-
-    <title>RA de Git Hub(Octacat)</title>
+    <script src="https://cdn.jsdelivr.net/npm/mind-ar@1.1.4/dist/mindar-image.prod.js"></script>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mind-ar@1.1.4/dist/mindar-image-aframe.prod.js"></script>
+    <title>RA GIT HUB</title>
   </head>
   <body>
-    <a-scene>
-      <a-entity zappar-permissions-ui id="permissions"></a-entity>
-
-      <a-entity zappar-compatibility-ui id="compatibility"></a-entity>
-
-      <a-camera zappar-camera></a-camera>
-
-      <a-entity
-        zappar-image="target:https://cdn.glitch.global/be8afb92-31e5-4eea-8c26-7f86a9ec9d19/marcador%20git.zpt?v=1647372512040"
-      >
-        <a-entity
-          id="model"
-          gltf-model="https://cdn.glitch.global/be8afb92-31e5-4eea-8c26-7f86a9ec9d19/OCTOCAT3.glb?v=1647374966190"
-        ></a-entity>
+    <a-scene
+      mindar-image="imageTargetSrc:https://cdn.glitch.global/9eecc002-eb91-4374-84e9-7bd19775bc6e/targets.mind?v=1648048229138;"
+      vr-mode-ui="enabled: false"
+      device-orientation-permission-ui="enabled: false"
+    >
+      <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
+      <a-entity mindar-image-target="targetIndex: 0">
+        <a-gltf-model
+          rotation="0 0 0"
+          position="0 0 0.1"
+          scale="0.5 0.5 0.5"
+          src="https://cdn.glitch.global/9eecc002-eb91-4374-84e9-7bd19775bc6e/EEEEEEEEEE.glb?v=1648049833594"
+        ></a-gltf-model>
       </a-entity>
     </a-scene>
   </body>
